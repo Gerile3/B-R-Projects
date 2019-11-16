@@ -1,5 +1,5 @@
 import time
-
+# Project by B&R
 class otobus():
     def __init__(self,koltuk=48):
         self.koltuk=koltuk
